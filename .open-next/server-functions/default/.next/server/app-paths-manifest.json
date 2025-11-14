@@ -1,0 +1,21 @@
+{
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/blog/route": "app/api/blog/route.js",
+  "/api/projects/route": "app/api/projects/route.js",
+  "/api/layout-data/route": "app/api/layout-data/route.js",
+  "/api/page-data/route": "app/api/page-data/route.js",
+  "/(site)/blog/[slug]/page": "app/(site)/blog/[slug]/page.js",
+  "/(site)/projects/[slug]/page": "app/(site)/projects/[slug]/page.js",
+  "/(site)/(auth)/forgot-password/page": "app/(site)/(auth)/forgot-password/page.js",
+  "/(site)/(auth)/signin/page": "app/(site)/(auth)/signin/page.js",
+  "/(site)/blog/page": "app/(site)/blog/page.js",
+  "/(site)/about/page": "app/(site)/about/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(site)/documentation/page": "app/(site)/documentation/page.js",
+  "/(site)/contact/page": "app/(site)/contact/page.js",
+  "/(site)/privacy-policy/page": "app/(site)/privacy-policy/page.js",
+  "/(site)/(auth)/signup/page": "app/(site)/(auth)/signup/page.js",
+  "/(site)/terms-and-conditions/page": "app/(site)/terms-and-conditions/page.js",
+  "/(site)/projects/page": "app/(site)/projects/page.js",
+  "/page": "app/page.js"
+}

@@ -1,0 +1,21 @@
+{
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/api/blog/route": "/api/blog",
+  "/api/projects/route": "/api/projects",
+  "/api/layout-data/route": "/api/layout-data",
+  "/api/page-data/route": "/api/page-data",
+  "/(site)/blog/[slug]/page": "/blog/[slug]",
+  "/(site)/projects/[slug]/page": "/projects/[slug]",
+  "/(site)/(auth)/forgot-password/page": "/forgot-password",
+  "/(site)/(auth)/signin/page": "/signin",
+  "/(site)/blog/page": "/blog",
+  "/(site)/about/page": "/about",
+  "/_not-found/page": "/_not-found",
+  "/(site)/documentation/page": "/documentation",
+  "/(site)/contact/page": "/contact",
+  "/(site)/privacy-policy/page": "/privacy-policy",
+  "/(site)/(auth)/signup/page": "/signup",
+  "/(site)/terms-and-conditions/page": "/terms-and-conditions",
+  "/(site)/projects/page": "/projects",
+  "/page": "/"
+}
